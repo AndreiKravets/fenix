@@ -1,0 +1,30 @@
+{
+    "albom":[
+    {
+        "id": 1,
+        
+        "image": "https://picsum.photos/g/800/404?random"
+     
+    },
+    {
+        "id": 2,
+      
+        "image": "https://picsum.photos/g/800/402?random"
+      
+    },
+    {
+        "id": 3,
+ 
+        "image": "https://picsum.photos/g/800/403?random"
+     
+    }
+    ],
+    "discription":[
+        {
+            "name": "шестой альбом",
+            
+            "opis": "Описание шестого альбома"
+         
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "albom":[
+    {
+        "id": 1,
+        
+        "image": "https://picsum.photos/800/401?random"
+     
+    },
+    {
+        "id": 2,
+      
+        "image": "https://picsum.photos/800/402?random"
+      
+    },
+    {
+        "id": 3,
+ 
+        "image": "https://picsum.photos/800/403?random"
+     
+    },
+    {
+        "id": 4,
+        
+        "image": "https://picsum.photos/800/404?random"
+     
+    },
+    {
+        "id": 5,
+      
+        "image": "https://picsum.photos/800/405?random"
+      
+    },
+    {
+        "id": 6,
+ 
+        "image": "https://picsum.photos/800/406?random"
+     
+    },
+    {
+        "id": 7,
+        
+        "image": "https://picsum.photos/800/407?random"
+     
+    },
+    {
+        "id": 8,
+      
+        "image": "https://picsum.photos/800/408?random"
+      
+    },
+    {
+        "id": 9,
+ 
+        "image": "https://picsum.photos/800/409?random"
+     
+    },
+    {
+        "id": 10,
+        
+        "image": "https://picsum.photos/800/410?random"
+     
+    },
+    {
+        "id": 11,
+      
+        "image": "https://picsum.photos/800/411?random"
+      
+    },
+    {
+        "id": 12,
+ 
+        "image": "https://picsum.photos/800/412?random"
+     
+    }
+    ],
+    "discription":[
+        {
+            "name": "второй альбом",
+            
+            "opis": "Описание второго альбома"
+         
+        }
+    ]
+}
