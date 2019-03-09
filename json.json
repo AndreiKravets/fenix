@@ -1,0 +1,54 @@
+{
+"info":[
+{
+    "id": 1,
+    "rout":"alboms1",
+    "name": "Альбом 1",
+    "image": "https://picsum.photos/g/400?random"
+   
+},
+{
+    "id": 2,
+    "rout":"alboms2",
+    "name": "Альбом 2",
+    "image": "https://picsum.photos/401?random"
+},
+{
+    "id": 3,
+    "rout":"alboms3",
+    "name": "Альбом 3",
+    "image": "https://picsum.photos/g/402?random"
+},
+{
+    "id": 4,
+    "rout":"alboms4",
+    "name": "Альбом 4",
+    "image": "https://picsum.photos/403?random"
+},
+{
+    "id": 5,
+    "rout":"alboms5",
+    "name": "Альбом 5",
+    "image": "https://picsum.photos/g/404?random"
+},
+{
+    "id": 6,
+    "rout":"alboms6",
+    "name": "Альбом 6",
+    "image": "https://picsum.photos/405?random"
+},
+{
+    "id": 7,
+    "rout":"alboms7",
+    "name": "Альбом 7",
+    "image": "https://picsum.photos/g/406?random"
+},
+{
+    "id": 8,
+    "rout":"alboms8",
+    "name": "Альбом 8",
+    "image": "https://picsum.photos/407?random"
+}
+
+]
+}
