@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/fenix/static/js/runtime~main.80b777ea.js"
   },
   {
-    "revision": "cc0b68104ffd42833ff5",
-    "url": "/fenix/static/js/main.cc0b6810.chunk.js"
+    "revision": "aa28062575d7ccc25f5f",
+    "url": "/fenix/static/js/main.aa280625.chunk.js"
   },
   {
     "revision": "2588b9a3f0d3a168fc29",
     "url": "/fenix/static/js/1.2588b9a3.chunk.js"
   },
   {
-    "revision": "cc0b68104ffd42833ff5",
+    "revision": "aa28062575d7ccc25f5f",
     "url": "/fenix/static/css/main.a001706a.chunk.css"
   },
   {
-    "revision": "3476965934a708195f77f0c28a4a4637",
+    "revision": "5044865fb48344cd39bb51ea6ed2af0d",
     "url": "/fenix/index.html"
   }
 ];
