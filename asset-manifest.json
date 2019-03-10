@@ -1,13 +1,13 @@
 {
   "main.css": "/fenix/static/css/main.a001706a.chunk.css",
-  "main.js": "/fenix/static/js/main.f87c26f7.chunk.js",
-  "main.js.map": "/fenix/static/js/main.f87c26f7.chunk.js.map",
+  "main.js": "/fenix/static/js/main.04ecab2c.chunk.js",
+  "main.js.map": "/fenix/static/js/main.04ecab2c.chunk.js.map",
   "static/js/1.2588b9a3.chunk.js": "/fenix/static/js/1.2588b9a3.chunk.js",
   "static/js/1.2588b9a3.chunk.js.map": "/fenix/static/js/1.2588b9a3.chunk.js.map",
   "runtime~main.js": "/fenix/static/js/runtime~main.80b777ea.js",
   "runtime~main.js.map": "/fenix/static/js/runtime~main.80b777ea.js.map",
   "static/css/main.a001706a.chunk.css.map": "/fenix/static/css/main.a001706a.chunk.css.map",
   "index.html": "/fenix/index.html",
-  "precache-manifest.851af5827510a1635cc5bbcf3e7f20f7.js": "/fenix/precache-manifest.851af5827510a1635cc5bbcf3e7f20f7.js",
+  "precache-manifest.465f2df5ecf6c40c544fb78a3c00b6e2.js": "/fenix/precache-manifest.465f2df5ecf6c40c544fb78a3c00b6e2.js",
   "service-worker.js": "/fenix/service-worker.js"
 }
